@@ -1,4 +1,4 @@
-#Animated folder
+# Animated folder
 
 Simple animation of a folder using only HTML and CSS3.
 
